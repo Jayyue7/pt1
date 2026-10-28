@@ -2,7 +2,7 @@
     <div class="p-4">
         <a href="home.php" class="navbar-brand">
             <div class="row">
-                <h5 class="">My Smart Plant Sensors</h5>
+                <h5 class=""> Smart Plant Sensors</h5>
             </div>
         </a>
         <hr>
